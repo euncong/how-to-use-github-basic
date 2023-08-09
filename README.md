@@ -35,10 +35,10 @@
 
 ### - Github에 저장소 만들기
 1. github 홈페이지 접속 후 New 버튼 눌러서 Repository 생성
-2. clone할 저장소 주소 복사 
+2. 연결할 저장소 주소 복사 
 
 ### - Github 저장소에 프로젝트 올리기
-1. git remote add origin 복사한 저장소 주소
+1. git remote add origin 복사한 저장소 주소 입
 2. git push origin master 입력하여 master 브랜치에 업로드<br>
 (인증절차 있으면 완료 후 업로드 하세용)
 3. github 접속해서 업로드 되었는지 확인
