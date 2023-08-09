@@ -30,7 +30,7 @@
    - git config --global --list 입력하여 등록정보 확인
 7. git status 입력하여 현재 프로젝트 구조 확인
 8. git add . 입력하여 status에 올림
-9.  git commit -m '커밋메시지 입력' 하여 local에 커밋
+9.  git commit -m '커밋메시지 입력' 하여 local에 프로젝트 버전 커밋
 10. git log 입력하여 커밋되었는지 확인
 
 ### - Github에 저장소 만들기
